@@ -11,5 +11,6 @@ public class SpringCloudEcsConfigServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudEcsConfigServerApplication.class, args);
 	}
+	
 
 }
